@@ -8,6 +8,7 @@ GameLogic::GameLogic()
 	getPlayerName(m_player);
 
 	std::cout << ">>>>>> Spaceship Mystery <<<<<<" << std::endl;
+	std::cout << ">>>>>> Par Felix Paille Dowell et Meryem Elouazanni <<<<<<" << std::endl;
 	std::cout << "Welcome to the crew of the Poly StarCruiser!!" << std::endl;
 	std::cout << "You are the captain of this ship, and you were mysteriously woken up before the end of your voyage..." << std::endl << std::endl;
 	std::cout << "Controls: you can look to view the room, pickup items, and do look/use [item] to look at or use an item in the room or in your inventory." << std::endl << std::endl;
